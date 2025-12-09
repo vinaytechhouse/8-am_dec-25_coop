@@ -1,0 +1,3 @@
+New network file path
+C:\Test.doc
+D:\Test1.doc
